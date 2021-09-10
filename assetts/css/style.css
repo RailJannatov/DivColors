@@ -1,0 +1,17 @@
+.main {
+    color: red;
+}
+
+.main div:first-child {
+    color: blue;
+}
+
+.main div:first-child div {
+    color: red;
+}
+
+div {
+    border: 1px solid #a9a9a9;
+    text-align: center;
+
+}
